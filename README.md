@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Anuragh0341
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning all code languages
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ... just text me 
-- 😄 Pronouns: ...
+- 👋 HEYY, I’m @Anuragh0341
+- 👀 INDIE HACKER
+- 🌱  CURRENTLY PLANTING KNOWLEDG
+- 📫 To reach me ... just text me 
 - ⚡ Fun fact: i'm highly active 
 
 <!---
