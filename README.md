@@ -1,6 +1,6 @@
 - 👋 HEYY, I’m @Anuragh0341
 - 👀 INDIE HACKER
-- 🌱  CURRENTLY PLANTING KNOWLEDG
+- 🌱  CURRENTLY PLANTING KNOWLEDGE
 - 📫 To reach me ... just text me 
 - ⚡ Fun fact: i'm highly active 
 
